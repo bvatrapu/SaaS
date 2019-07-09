@@ -1,0 +1,12 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar 
+ */
+
+grammar grammar;
+
+
+
+public <main> = ( projects | smart hub | execution | reports | start hub | start node | shut down);
+public <smarthub> = ( smart builder | smart gen | spy intellij );
